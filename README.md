@@ -35,7 +35,7 @@ Antes de rodar a aplicação, você precisa configurar os dados de acesso ao ser
     "ToEmail": "email-de-destino@exemplo.com"
   },
   "ApiSettings": {
-    "BaseUrl": "[https://brapi.dev/api](https://brapi.dev/api)",
+    "BaseUrl": "https://brapi.dev/api/quote",
     "ApiKey": "seu-token-de-acesso-aqui"
   }
 }
