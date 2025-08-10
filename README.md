@@ -50,5 +50,5 @@ A aplicação deve ser executada via linha de comando com três parâmetros: o *
 2.  Execute o comando seguindo a sintaxe abaixo:
 
 ```bash
-stock-quote-alert.exe <ATIVO> <PRECO_VENDA> <PRECO_COMPRA>
+StockQuoteAlert.exe <ATIVO> <PRECO_VENDA> <PRECO_COMPRA>
 ```
