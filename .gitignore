@@ -1,0 +1,10 @@
+﻿# Arquivos sensíveis de configuração
+appsettings.json
+
+# Pasta de binários e objetos de build
+[Bb]in/
+[Oo]bj/
+
+# Pacotes NuGet
+.vs/
+packages/
